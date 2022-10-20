@@ -1,2 +1,2 @@
 # meme_generator
-learning and made a meme generator using react
+learned and made a meme generator using react
