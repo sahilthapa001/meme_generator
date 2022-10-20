@@ -66,12 +66,14 @@ main {
 .meme--image {
 	max-width: 100%;
 	border-radius: 3px;
+	/* justify-content: center;
+	align-items: center; */
 }
 
 .meme--text {
 	position: absolute;
 	width: 80%;
-	text-align: center;
+	text-align: left;
 	left: 50%;
 	transform: translateX(-50%);
 	margin: 15px 0;
