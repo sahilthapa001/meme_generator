@@ -1,14 +1,12 @@
 import React from "react";
-import Nav from "./component/nav";
-import Hero from "./component/hero";
-import Card from "./component/card";
+import Header from "./components/Header";
+import Meme from "./components/Meme";
 
 export default function App() {
 	return (
-		<div className="container">
-			<Nav />
-			<Hero />
-			<Card />
+		<div>
+			<Header />
+			<Meme />
 		</div>
 	);
 }
